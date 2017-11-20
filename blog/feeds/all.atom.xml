@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE)</title><link href="https://cpb.kmol.info/40623220/doc/trunk/blog/" rel="alternate"></link><link href="https://cpb.kmol.info/40623220/doc/trunk/blog/feeds/all.atom.xml" rel="self"></link><id>https://cpb.kmol.info/40623220/doc/trunk/blog/</id><updated>2017-11-04T00:00:00+08:00</updated><entry><title>計算機程式第九週學習心得</title><link href="https://cpb.kmol.info/40623220/doc/trunk/blog/40623220_2017-fall-cp-w9-exam.html" rel="alternate"></link><published>2017-11-04T00:00:00+08:00</published><updated>2017-11-04T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:cpb.kmol.info,2017-11-04:/40623220/doc/trunk/blog/40623220_2017-fall-cp-w9-exam.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;期中簡報&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://cpb.kmol.info/40623220/doc/trunk/20.html#/"&gt;投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;影片&lt;/h3&gt;
+&lt;iframe width="600" height="500" src="https://www.youtube.com/embed/BTRxF7rS3xM" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/241449231" width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/241449231"&gt;國立虎尾科技大學-機械設計工程系-計算機程式-40623220國立虎-w9&lt;/a&gt; from &lt;a href="https://vimeo.com/user73189423"&gt;蔡崇廷&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="exam"></category></entry><entry><title>計算機程式第八週學習心得</title><link href="https://cpb.kmol.info/40623220/doc/trunk/blog/40623220_2017-fall-cp-w8-exam.html" rel="alternate"></link><published>2017-10-30T00:00:00+08:00</published><updated>2017-10-30T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:cpb.kmol.info,2017-10-30:/40623220/doc/trunk/blog/40623220_2017-fall-cp-w8-exam.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;操作影片&lt;/h3&gt;
+&lt;p&gt;&lt;iframe width="600" height="500" src="https://www.youtube.com/embed/O2l4cfqOc3g" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/240457787" width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/240457787"&gt;國立虎尾科技大學-機械設計工程系-計算機程式-40623220-w8&lt;/a&gt; from &lt;a href="https://vimeo.com/user73189423"&gt;蔡崇廷&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;學習for 迴圈用法與 Python 的縮排規定
+雖然剛做很多錯誤但慢慢的就知道哪裡要修改&lt;/p&gt;
+&lt;p&gt;了解如開啟eric6之後建立計算機所需要的表單還有將大概的架構做出來&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="exam"></category></entry><entry><title>計算機程式第七週學習心得</title><link href="https://cpb.kmol.info/40623220/doc/trunk/blog/40623220_2017-fall-cp-w7-exam.html" rel="alternate"></link><published>2017-10-29T00:00:00+08:00</published><updated>2017-10-29T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:cpb.kmol.info,2017-10-29:/40623220/doc/trunk/blog/40623220_2017-fall-cp-w7-exam.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;操作影片&lt;/h3&gt;
+&lt;iframe width="600" height="500" src="https://www.youtube.com/embed/N-r_aHmr6-o" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/240362450" width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/240362450"&gt;國立虎尾科技大學-機械設計工程系-計算機程式-40623220&lt;/a&gt; from &lt;a href="https://vimeo.com/user73189423"&gt;蔡崇廷&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;學習心得&lt;/h3&gt;
+&lt;p&gt;利用fossil clone 複製網址&lt;/p&gt;
+&lt;p&gt;再用fossil open  將他打開&lt;/p&gt;
+&lt;p&gt;再打開Leo editor&lt;/p&gt;
+&lt;p&gt;新增一篇網誌&lt;/p&gt;
+&lt;p&gt;再用fossil add .將所有作的事物增加&lt;/p&gt;
+&lt;p&gt;再用fossil commit -m "   "將網誌上傳&lt;/p&gt;
+&lt;h3&gt;自評成績&lt;/h3&gt;
+&lt;p&gt;每週出席情況100&lt;/p&gt;
+&lt;p&gt;紙本筆記 70&lt;/p&gt;
+&lt;p&gt;隨身碟內容 70&lt;/p&gt;
+&lt;p&gt;個人倉儲內容 70&lt;/p&gt;
+&lt;p&gt;各週上課摘要 70&lt;/p&gt;
+&lt;p&gt;自評成績 70&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category><category term="exam"></category></entry><entry><title>2017 Fall CP 第六週</title><link href="https://cpb.kmol.info/40623220/doc/trunk/blog/40623220_2017-fall-cp-w6.html" rel="alternate"></link><published>2017-10-16T00:00:00+08:00</published><updated>2017-10-16T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:cpb.kmol.info,2017-10-16:/40623220/doc/trunk/blog/40623220_2017-fall-cp-w6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;課程摘要&lt;/h3&gt;
+&lt;p&gt;複習W1到W4的內容&lt;/p&gt;
+&lt;p&gt;修改倉儲的密碼和時間&lt;/p&gt;
+&lt;p&gt;用fossil clone複製別人倉儲和網誌與投影片內容然後如何提交道自己的倉儲&lt;/p&gt;
+&lt;p&gt;如果資料變更, 可以利用 fossil status 查看內容, 必要時利用 fossil delete 修改&lt;/p&gt;
+&lt;p&gt;for 迴圈用法&lt;/p&gt;
+&lt;h3&gt;使用指令&lt;/h3&gt;
+&lt;p&gt;fossil clone&lt;/p&gt;
+&lt;p&gt;fossil open&lt;/p&gt;
+&lt;p&gt;mkdir&lt;/p&gt;
+&lt;p&gt;fossil add .&lt;/p&gt;
+&lt;p&gt;fossil commit -m "  "&lt;/p&gt;
+&lt;p&gt;fossil status&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>2017 Fall CP 第四週</title><link href="https://cpb.kmol.info/40623220/doc/trunk/blog/40623220_2017-fall-cp-w4.html" rel="alternate"></link><published>2017-10-02T00:00:00+08:00</published><updated>2017-10-02T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:cpb.kmol.info,2017-10-02:/40623220/doc/trunk/blog/40623220_2017-fall-cp-w4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;課程摘要&lt;/h3&gt;
+&lt;p&gt;如果資料變更, 可以利用 fossil status 查看內容, 必要時利用 fossil delete 修改&lt;/p&gt;
+&lt;p&gt;在命令列中以 mkdir .fossil-settings 建立所需目錄&lt;/p&gt;
+&lt;p&gt;ignore-glob 檔案內容: &lt;em&gt;/.git/&lt;/em&gt;, &lt;em&gt;/&lt;strong&gt;pycache&lt;/strong&gt;/&lt;/em&gt;, &lt;em&gt;/&lt;/em&gt;.pyc&lt;/p&gt;
+&lt;p&gt;###使用指令&lt;/p&gt;
+&lt;p&gt;fossil status&lt;/p&gt;
+&lt;p&gt;fossil delete&lt;/p&gt;
+&lt;p&gt;###課程單字&lt;/p&gt;
+&lt;p&gt;analog:類比&lt;/p&gt;
+&lt;p&gt;digital:數位&lt;/p&gt;
+&lt;p&gt;sampling:取樣&lt;/p&gt;
+&lt;p&gt;animation:動畫&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>2017 Fall CP 第三週</title><link href="https://cpb.kmol.info/40623220/doc/trunk/blog/40623220_2017-fall-cp-w3.html" rel="alternate"></link><published>2017-09-25T00:00:00+08:00</published><updated>2017-09-25T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:cpb.kmol.info,2017-09-25:/40623220/doc/trunk/blog/40623220_2017-fall-cp-w3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;課程摘要&lt;/h3&gt;
+&lt;p&gt;用fossil clone複製別人倉儲和網誌與投影片內容然後如何提交道自己的倉儲&lt;/p&gt;
+&lt;h3&gt;使用指令&lt;/h3&gt;
+&lt;p&gt;.所在目錄&lt;/p&gt;
+&lt;p&gt;..上個目錄&lt;/p&gt;
+&lt;p&gt;fossil clone&lt;/p&gt;
+&lt;p&gt;fossil open&lt;/p&gt;
+&lt;p&gt;mkdir建目錄&lt;/p&gt;
+&lt;p&gt;fossil add .增加全部&lt;/p&gt;
+&lt;p&gt;fossil commit -m "  "提交&lt;/p&gt;
+&lt;h3&gt;課程單字&lt;/h3&gt;
+&lt;p&gt;configuration:組態&lt;/p&gt;
+&lt;p&gt;remark:說明&lt;/p&gt;
+&lt;p&gt;remark batch:批次&lt;/p&gt;
+&lt;p&gt;default:默認&lt;/p&gt;
+&lt;p&gt;protocol:協定&lt;/p&gt;
+&lt;p&gt;cerification:簽章&lt;/p&gt;
+&lt;p&gt;certify:認證&lt;/p&gt;
+&lt;p&gt;vacuuming:吸塵&lt;/p&gt;
+&lt;p&gt;IDE:整合開發環境&lt;/p&gt;
+&lt;p&gt;I:integrated&lt;/p&gt;
+&lt;p&gt;D:development&lt;/p&gt;
+&lt;p&gt;E:environment&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>2017 Fall CP 第二週</title><link href="https://cpb.kmol.info/40623220/doc/trunk/blog/40623220_2017-fall-cp-w2.html" rel="alternate"></link><published>2017-09-18T00:00:00+08:00</published><updated>2017-09-18T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:cpb.kmol.info,2017-09-18:/40623220/doc/trunk/blog/40623220_2017-fall-cp-w2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;課程摘要&lt;/h3&gt;
+&lt;p&gt;修改倉儲的密碼和時間&lt;/p&gt;
+&lt;p&gt;WiKi的使用方法&lt;/p&gt;
+&lt;h3&gt;課程單字&lt;/h3&gt;
+&lt;p&gt;administrator:管理者&lt;/p&gt;
+&lt;p&gt;grant:准許&lt;/p&gt;
+&lt;p&gt;privileges:特權&lt;/p&gt;
+&lt;p&gt;individual:個別的&lt;/p&gt;
+&lt;p&gt;capabilites:被給的權利&lt;/p&gt;
+&lt;p&gt;anonymous:匿名的&lt;/p&gt;
+&lt;p&gt;certificate:認證&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category></entry><entry><title>2017 Fall CP 第一週</title><link href="https://cpb.kmol.info/40623220/doc/trunk/blog/40623220_2017-fall-cp-w1.html" rel="alternate"></link><published>2017-09-11T00:00:00+08:00</published><updated>2017-09-11T00:00:00+08:00</updated><author><name>40623220</name></author><id>tag:cpb.kmol.info,2017-09-11:/40623220/doc/trunk/blog/40623220_2017-fall-cp-w1.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;課程摘要&lt;/h3&gt;
+&lt;p&gt;機械設計是種表達&lt;/p&gt;
+&lt;p&gt;六種表達:口語、文字、圖表、3D、數字、實體&lt;/p&gt;
+&lt;p&gt;創造力:自學力、執行力、想像力&lt;/p&gt;
+&lt;p&gt;程式:流程與格式&lt;/p&gt;
+&lt;h3&gt;課程單字&lt;/h3&gt;
+&lt;p&gt;interpreter:解譯&lt;/p&gt;
+&lt;p&gt;SCM:軟體配置管理&lt;/p&gt;
+&lt;p&gt;S:software&lt;/p&gt;
+&lt;p&gt;C:configuration&lt;/p&gt;
+&lt;p&gt;M:management&lt;/p&gt;</content><category term="2017fall"></category><category term="CP"></category></entry></feed>
